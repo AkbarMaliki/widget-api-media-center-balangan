@@ -23,7 +23,7 @@ Code lengkap :
 ```
 
   
-  ##Note*
+  ## Note*
   untuk apikey kalian bisa dapatkan dengan menghubungi : 
   - 082251970006 (Whatsapp Only)
   - taufikakbarmalikitkj@gmail.com
