@@ -27,3 +27,6 @@ Code lengkap :
   untuk apikey kalian bisa dapatkan dengan menghubungi : 
   - 082251970006 (Whatsapp Only)
   - taufikakbarmalikitkj@gmail.com
+
+    
+    Created by using https://newsapi.org/s/indonesia-news-api
